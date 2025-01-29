@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #ffe5ec;
+            font-family: 'Arial', sans-serif;
+            color: #ff4081;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        .heart {
+            color: red;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy Birthday, My Love! 🎉</h1>
+    <p>On this special day, I just want to remind you how much you mean to me. 
+       You bring joy, love, and light into my life every single day. 
+       May this year bring you as much happiness as you have given me! ❤️</p>
+    <p class="heart">❤️❤️❤️</p>
+</body>
+</html>
